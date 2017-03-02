@@ -1,0 +1,14 @@
+{
+  "name": "elm-hello",
+  "version": "1.0.0",
+  "description": "Quick Elm Starter Kit with Webpack and webpack-dev-server",
+  "main": "index.html",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "elm-webpack-loader": "^4.2.0",
+    "file-loader": "^0.10.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
