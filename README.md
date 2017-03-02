@@ -19,6 +19,6 @@ Gosh I thought this was easy! You're almost there.
 - Run `npm install` or `yarn install` in the project directory (this will create a folder called `node_modules` that git will hide)
 
 OK! Now
-# Run Webpack
+### Run Webpack
 - Run `webpack` to get a build folder with all the Elm bundled up into a neat little Javascript. You can now open index.html in your browser and see it there.
 - Run `webpack-dev-server` to get a live reloading version of index.html at localhost:8080.
